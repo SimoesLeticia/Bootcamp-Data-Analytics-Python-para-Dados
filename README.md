@@ -27,3 +27,5 @@ Este projeto utiliza as seguintes bibliotecas:
 Contribuições são bem-vindas! Se você encontrar qualquer erro ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 **Divirta-se aprendendo e analisando dados!** 🚀📊
+
+<a href="https://womakerscode.org"><img src="https://womakerscode.org/wp-content/uploads/2023/05/womakerscode-icone.png" alt="Womakerscode" width="50" height="44"></a>
